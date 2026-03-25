@@ -1,0 +1,13 @@
+{
+  "name": "digital-twin",
+  "version": "1.0.0",
+  "description": "Root package for running client and server together",
+  "scripts": {
+    "server": "node server/server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

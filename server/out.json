@@ -1,0 +1,46 @@
+{
+  "logs": [
+    {
+      "_id": "69b23f42af603049bae18d31",
+      "userId": "69b23f42af603049bae18d2e",
+      "studyHours": 5,
+      "sleepHours": 8,
+      "screenTime": 3,
+      "exerciseMinutes": 45,
+      "mood": "Good",
+      "tasksCompleted": 4,
+      "date": "2026-03-12T04:21:22.469Z",
+      "createdAt": "2026-03-12T04:21:22.470Z",
+      "updatedAt": "2026-03-12T04:21:22.470Z",
+      "__v": 0
+    }
+  ],
+  "scores": [
+    {
+      "_id": "69b23f42af603049bae18d33",
+      "userId": "69b23f42af603049bae18d2e",
+      "score": 100,
+      "analysisResult": "Your productivity score is 100. ",
+      "date": "2026-03-12T04:21:22.471Z",
+      "createdAt": "2026-03-12T04:21:22.471Z",
+      "updatedAt": "2026-03-12T04:21:22.471Z",
+      "__v": 0
+    }
+  ],
+  "averages": {
+    "study": "5.0",
+    "sleep": "8.0",
+    "screen": "3.0"
+  },
+  "weeklyImprovement": 0,
+  "latestScore": {
+    "_id": "69b23f42af603049bae18d33",
+    "userId": "69b23f42af603049bae18d2e",
+    "score": 100,
+    "analysisResult": "Your productivity score is 100. ",
+    "date": "2026-03-12T04:21:22.471Z",
+    "createdAt": "2026-03-12T04:21:22.471Z",
+    "updatedAt": "2026-03-12T04:21:22.471Z",
+    "__v": 0
+  }
+}
